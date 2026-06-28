@@ -6,9 +6,12 @@ function App() {
 
   return (
     <>
-      <div className = "bg-black w-screen h-screen">
-      <h1 className = "text-white text-4xl"> Welcome to CurrEX</h1>
+      <div className = "bg-amber-800 flex-wrap justify-center">
+        <h1 className = " text-5xl  ">Hello Welcome to CurrEX</h1>
+        <h2>Get values for your currency worldwide here</h2>
+
       </div>
+      
     </>
   )
 }
